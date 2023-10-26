@@ -1,0 +1,13 @@
+.parent_div{
+    border: 2px solid rebeccapurple;
+    width: 74vw;
+    min-height: 100vh;
+}
+
+.image_card_container{
+    border: 2px solid rebeccapurple;
+    display:  flex;
+    justify-content: space-around;
+    align-items: center;
+
+}

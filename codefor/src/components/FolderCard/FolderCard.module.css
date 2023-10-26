@@ -1,0 +1,18 @@
+.folder_name_text {
+  /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
+  font-size: 25px;
+  font-weight: 500;
+  font-family: serif;
+  padding: 10px;
+  margin: 15px 5px;
+  cursor: pointer;
+}
+
+.arrow_icon {
+  /* border: 2px solid rebeccapurple; */
+}
+
+.transform_icon {
+  /* border: 2px solid red; */
+  transform: rotate(90deg);
+}
